@@ -9,6 +9,13 @@ bundle exec rails server
 Loging using sam@example.com and password `welcome`
 ```
 
+## Demo
+
+![Demo](https://cloud.githubusercontent.com/assets/16014189/16873401/8fa8c9f2-4ab0-11e6-826e-459db15e4b18.gif)
+
+## Example 
+
+Check out more examples by logging using above credentials.
 
 
 #### Brought to you by
