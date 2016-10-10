@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.3.0'
-
 gem 'rails', '4.2.6'
 
 # friends of Rails
@@ -109,6 +107,5 @@ group :test do
   gem 'simplecov', require: false
 
 end
-
 
 gem 'react-rails', '1.7.2'
