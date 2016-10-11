@@ -1,12 +1,11 @@
 [![Circle CI](https://circleci.com/gh/bigbinary/wheel.png?style=badge)](https://circleci.com/gh/bigbinary/wheel)
 
-#### Prerequisites
+## Prerequisites
 
-1. Please check the setup instructions below and setup the app. 
-
+1. Please check the setup instructions below and setup the app.
 2. We are using [HAML](http://haml.info/) for templating instead of ERB. See this [tutorial](http://haml.info/tutorial.html) if you have not used HAML before.
 
-#### Setup
+## Setup
 
 ```
 ruby -v # I am using Ruby 2.3.1 but other versions will also work. Please make sure you are able to run the app on your Ruby version.
@@ -31,6 +30,16 @@ Check out more examples by logging using above credentials.
 2. React-Rails https://github.com/reactjs/react-rails
 3. https://github.com/Shopify/sprockets-commoner
 4. https://www.bigbinary.com/videos/learn-reactjs-in-steps
+
+## ES6 Foo
+
+We are using ES6 in the examples. Following are some of the resources, that I will recommend reading before the workshop.
+They are not mandatory to read, but if you have read them, it will be easier to understand some of the usage of ES6.
+
+Note: Our usage of ES6 is very limited so even if you don't know anything about ES6, it is fine 😁
+
+1. let v/s var v/s const - http://wesbos.com/javascript-scoping/
+2. ES6 classes - http://www.2ality.com/2015/02/es6-classes-final.html
 
 #### Brought to you by
 
