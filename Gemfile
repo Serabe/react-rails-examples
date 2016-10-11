@@ -5,7 +5,7 @@ gem 'rails', '4.2.6'
 # friends of Rails
 gem 'jquery-rails'
 gem 'sprockets-rails'
-gem 'sass-rails', '>= 5.0.3'
+gem 'sass-rails'
 gem 'uglifier', '>= 2.7.1'
 
 # database
