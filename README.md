@@ -25,6 +25,12 @@ You should be able to see a page with header `React from Rails examples`.
 
 Check out more examples by logging using above credentials.
 
+## Links
+
+1. React https://facebook.github.io/react/
+2. React-Rails https://github.com/reactjs/react-rails
+3. https://github.com/Shopify/sprockets-commoner
+4. https://www.bigbinary.com/videos/learn-reactjs-in-steps
 
 #### Brought to you by
 
