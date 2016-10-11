@@ -1,12 +1,10 @@
 class PostsIndex extends React.Component {
   constructor(props) {
     super(props);
-    var { posts } = this.props;
-    this.state = { posts: posts };
   }
 
   render() {
-    let posts = this.state.posts.map((post) => {
+    let posts = this.props.posts.map((post) => {
       return this.renderPost(post)
     });
 
