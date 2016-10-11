@@ -108,4 +108,4 @@ group :test do
 
 end
 
-gem 'react-rails', '1.7.2'
+gem 'react-rails'
