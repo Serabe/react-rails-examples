@@ -2,7 +2,6 @@ class PostsNew extends React.Component {
   constructor(props) {
     super(props);
     this.state = { user_id: this.props.user_id, title: '', content: '' };
-
   }
 
   render() {
@@ -93,7 +92,7 @@ class PostsNew extends React.Component {
         if (data.errors) {
           this.setState({ errors: data.errors });
         } else {
-          window.location = data.redirect_url
+          window.location = data.redirect_url;
         }
       }.bind(this)
     });
