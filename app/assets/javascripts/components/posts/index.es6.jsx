@@ -1,8 +1,4 @@
 class PostsIndex extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     let posts = this.props.posts.map((post) => {
       return this.renderPost(post)
