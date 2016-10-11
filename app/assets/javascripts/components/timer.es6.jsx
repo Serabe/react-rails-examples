@@ -8,7 +8,6 @@ class Timer extends React.Component {
     this.state = { hour: hour, minute: minute, second: second };
   }
 
-
   clockTick() {
     const date = new Date();
     const hour = date.getHours();
@@ -17,17 +16,20 @@ class Timer extends React.Component {
     this.setState({ hour: hour, minute: minute, second: second });
   }
 
-
   componentDidMount() {
     setInterval(this.clockTick.bind(this), 1000);
   }
 
   render() {
-    return <h1>
-      {this.state.hour}:
-      {this.state.minute}:
-      {this.state.second}
-    </h1>
+    return(
+      <div>
+        <h2>Timer</h2>
+        <h1>
+          {this.state.hour}:
+          {this.state.minute}:
+          {this.state.second}
+        </h1>
+      </div>
+    );
   }
 }
-
