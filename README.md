@@ -33,8 +33,9 @@ Check out more examples by logging using above credentials.
 
 ## ES6 Foo
 
-We are using ES6 in the examples. Following are some of the resources, that I will recommend reading before the workshop.
-They are not mandatory to read, but if you have read them, it will be easier to understand some of the usage of ES6.
+We are using [ES6](https://github.com/lukehoban/es6features) in the examples. Following are some of the resources, that I will recommend reading before the workshop.
+
+*They are not mandatory to read, but if you have read them, it will be easier to understand some of the usage of ES6.*
 
 Note: Our usage of ES6 is very limited so even if you don't know anything about ES6, it is fine 😁
 
