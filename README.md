@@ -41,6 +41,7 @@ Note: Our usage of ES6 is very limited so even if you don't know anything about 
 
 1. let v/s var v/s const - http://wesbos.com/javascript-scoping/
 2. ES6 classes - http://www.2ality.com/2015/02/es6-classes-final.html
+3. Arrow functions - http://exploringjs.com/es6/ch_arrow-functions.html
 
 #### Brought to you by
 
