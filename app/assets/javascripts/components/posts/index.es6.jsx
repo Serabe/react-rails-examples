@@ -8,7 +8,7 @@ class PostsIndex extends React.Component {
       <div className="container">
         <div className="jumbotron">
            <h1>Book reviews by Derek Sivers</h1>
-         </div>
+        </div>
 
         <section>
           {posts}
@@ -20,10 +20,10 @@ class PostsIndex extends React.Component {
   renderPost(post) {
     return (
       <div>
-      <h2><a href={post.url}>{post.title}</a></h2>
-      <p className="blog-content">
-        {post.content}
-      </p>
+        <h2><a href={post.url}>{post.title}</a></h2>
+        <p className="blog-content">
+          {post.content}
+        </p>
       </div>
     )
   }
