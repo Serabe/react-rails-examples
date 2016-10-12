@@ -13,6 +13,10 @@ class PostsIndex extends React.Component {
         <section>
           {posts}
         </section>
+
+        <p>
+          <a className="btn btn-lg btn-success" href="/">Back</a>
+        </p>
       </div>
     );
   }

@@ -29,6 +29,10 @@ class Timer extends React.Component {
           {this.state.minute}:
           {this.state.second}
         </h1>
+
+        <p>
+          <a className="btn btn-lg btn-success" href="/">Back</a>
+        </p>
       </div>
     );
   }
