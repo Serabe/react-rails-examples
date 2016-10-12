@@ -4,7 +4,11 @@
 
 1. Please check the setup instructions below and setup the app.
 2. We are using [HAML](http://haml.info/) for templating instead of ERB. See this [tutorial](http://haml.info/tutorial.html) if you have not used HAML before.
-3. Download React browser extension. For chrome - https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj969ijqtbPAhXBaRQKHVYTBeMQFggcMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Freact-developer-tools%2Ffmkadmapgofadopljbjfkapdkoienihi&usg=AFQjCNHpMuLT_xiADuygM7vQOO7tLJcwxQ&sig2=Cbyu3Yn65tGgXMSUpXI0Uw. For Firefox - https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj969ijqtbPAhXBaRQKHVYTBeMQFgg3MAQ&url=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Faddon%2Freact-devtools%2F&usg=AFQjCNGc_hjyt6C7hf6CfAZrWO18m2PhGg&sig2=1guLji3MyfN_QNElFR1nbA
+3. Download React browser extension. 
+
+  For chrome - https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj969ijqtbPAhXBaRQKHVYTBeMQFggcMAA&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Freact-developer-tools%2Ffmkadmapgofadopljbjfkapdkoienihi&usg=AFQjCNHpMuLT_xiADuygM7vQOO7tLJcwxQ&sig2=Cbyu3Yn65tGgXMSUpXI0Uw. 
+
+  For Firefox - https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj969ijqtbPAhXBaRQKHVYTBeMQFgg3MAQ&url=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Faddon%2Freact-devtools%2F&usg=AFQjCNGc_hjyt6C7hf6CfAZrWO18m2PhGg&sig2=1guLji3MyfN_QNElFR1nbA
 
 ## Setup
 
