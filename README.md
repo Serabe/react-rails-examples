@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/bigbinary/wheel.png?style=badge)](https://circleci.com/gh/bigbinary/wheel)
+## Welcome!
 
 ## Prerequisites
 
