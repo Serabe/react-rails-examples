@@ -5,21 +5,30 @@ class PostsIndex extends React.Component {
     });
 
     return (
-      <div>
-        <h1>All Posts</h1>
-        <ul>
+      <div className="container">
+        <div className="jumbotron">
+           <h1>Book reviews by Derek Sivers</h1>
+        </div>
+
+        <section>
           {posts}
-        </ul>
-        <br/>
+        </section>
+
+        <p>
+          <a className="btn btn-lg btn-success" href="/">Back</a>
+        </p>
       </div>
     );
   }
 
   renderPost(post) {
     return (
-      <li key={post.id}>
-        <a href={post.url}>{post.title}</a>
-      </li>
+      <div>
+        <h2><a href={post.url}>{post.title}</a></h2>
+        <p className="blog-content">
+          {post.content}
+        </p>
+      </div>
     )
   }
 }
